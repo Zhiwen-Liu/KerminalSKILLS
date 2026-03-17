@@ -41,6 +41,13 @@ pytorch-npu-migrate          tbe-to-ascendc-rewrite
 |-------|------|
 | [kibble-case-organize](skills/kibble-case-organize/) | 迁移适配项目案例归档整理 |
 
+### Session 管理
+
+| Skill | 说明 |
+|-------|------|
+| [session-handoff](skills/session-handoff/) | Session 结束前生成交接文档，供下一个 session 无缝续接 |
+| [session-retro](skills/session-retro/) | 复盘当前 session，分析卡点与改进机会 |
+
 ### 通用工具
 
 | Skill | 说明 |
